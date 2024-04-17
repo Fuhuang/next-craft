@@ -7,7 +7,7 @@ const BLOG = {
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   craftConfigShareUrl: process.env.CRAFT_CONFIG_SHARE_URL
     ? process.env.CRAFT_CONFIG_SHARE_URL
-    : 'https://docs.craft.do/editor/d/68503e1d-5fff-fde9-2c54-0d3cf881870c/a646f6eb-6358-e8c2-d76d-aa13b277a5fe?s=SMnmiUzCMfUcZoCNyPSkJVegbod8HrxcCfy8y5zBRqCi', // The link to share your craft config
+    : 'https://www.craft.do/s/kQtcWqkv98cHhB', // The link to share your craft config
   seo: {
     keywords: ['Blog', 'Craft.do', 'Craft Docs', 'Next.js', 'TailwindCSS']
   },
